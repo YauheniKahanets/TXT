@@ -1,1 +1,6 @@
-
+ID: 12345
+Title : Save Button
+Steps to reproduce : Add text to document, press the 'SAVE' button
+Actual result : Closing a file without saving changes
+Expected result : Saving a document
+Severity : Critical
